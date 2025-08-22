@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 861dd59b456c0694b8102e6b2c347cee, type: 3}
+  m_Name: Platinum1
+  m_EditorClassIdentifier: 
+  ID: 19
+  Name: Platinum1
+  Description: 
+  Icon: {fileID: 3286163911610860551, guid: fd00ae6781081da47ae93cd42cf0f859, type: 3}
+  Type: 3
+  Level: 1
